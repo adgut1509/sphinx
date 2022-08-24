@@ -6,13 +6,13 @@
 Welcome to sphinx's documentation!
 ==================================
 
-:ref: 'sdfdsfdsfsd <settingup>' 
+:ref:`test 1 <settingup>` 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-before
+test 2
 
 Indices and tablessdsad
 ==================
