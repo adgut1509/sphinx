@@ -1,3 +1,5 @@
+.. _settingup:
+
 fkdsfkdslfsdl sdfdsoflsdkf
 filedf
 
