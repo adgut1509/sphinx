@@ -6,7 +6,7 @@
 Welcome to sphinx's documentation!
 ==================================
 
-sdfdsfdsfsd
+:ref: 'sdfdsfdsfsd <settingup>' 
 
 .. toctree::
    :maxdepth: 2
